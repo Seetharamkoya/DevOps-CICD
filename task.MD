@@ -34,7 +34,8 @@
 ### Release Management:
 - Release management involves coordinating the release of the application to users or customers. It includes activities like versioning, change management, and ensuring a smooth transition to the new release.
 
-### Environment Management: By using configuration management tools like Ansible we can deploy to dev, stage and prod environments.
+### Environment Management: 
+- By using configuration management tools like Ansible we can deploy to dev, stage and prod environments.
 
 ### Monitoring & Logging: 
 - Once the application is deployed, monitoring and logging tools are used to collect and analyze real-time data on the application's performance, usage, and errors to resolve quickly and optimise the application performance.
